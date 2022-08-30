@@ -27,7 +27,7 @@ TBD
 ```
 ## Documentation
 
-[Documentation](https://github.com/gansuga/setuzoku/wiki/Specification)
+[Specification](https://github.com/gansuga/setuzoku/wiki/Specification)
 
 
 ## Authors
